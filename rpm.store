@@ -1,1 +1,1 @@
-{"trim": "", "base": "00aa4d1", "trimbase": "", "parent": "rpm/rolling/rosidl_generator_dds_idl", "previous": "10becb2"}
+{"base": "06a54a4", "parent": "rpm/humble/rosidl_generator_dds_idl", "previous": "cce885b", "trim": "", "trimbase": ""}
